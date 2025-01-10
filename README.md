@@ -1,1 +1,1 @@
-# Zadanie dodatkowe z laboratorium 4
+# Dodatkowe zadania - skrypty
