@@ -1,1 +1,1 @@
-# Dodatkowe zadania - skrypty
+# skrypty 
